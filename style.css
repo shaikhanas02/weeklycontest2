@@ -1,0 +1,102 @@
+
+body{
+    background-color: black;
+}
+
+.first{
+    position: fixed;
+    border:10px;
+    border-radius: 20px;
+    color: white;
+    background-color:rgb(35, 31, 31);
+    width: 20%;
+    text-align: center;
+    padding-bottom: 200px ;
+    padding-top: 20px;
+    float: left;
+    height: 520px ;
+    
+}
+.button1{
+    color: white ;
+    background-color: black;
+    height: 30px ;
+    width: 150px ; 
+    margin-bottom: 10px;
+    border-radius:50px ;
+}
+
+.descrip{
+    border:10px;
+    border-radius: 20px;
+    color: white;
+    background-color:rgb(35, 31, 31);
+    width: 79%;
+    height: 200px ;
+    padding-bottom: 200px ;
+    padding-left: 5px  ;
+    float: right;
+    
+}
+#imagex{ 
+    float: right;
+    max-width: 500px ;
+    max-height:450 px;
+    margin-right: 10px;
+    margin-top: 50px ;
+    
+}
+#text{
+    float:left;
+    text-align:left;
+    width: 50%;
+    padding-top: 20px ;
+    max-width: 400px ;
+    margin-top: 0px ;
+    margin-left: 10px ;
+}
+ .tableA{
+    border:10px;
+    border-radius: 20px;
+    color: white;
+    background-color:rgb(35, 31, 31);
+    width: 77%;
+    height: 330px ;
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+    padding-left: 25px  ;
+    float: right;
+ }
+ table, th {
+    border: 1px solid;
+  
+  }
+  table {
+    border-collapse: collapse;
+
+  }
+ table {
+    width: 90%;
+
+  }
+  table {
+    border-collapse: collapse;
+    border-radius: 25px;
+    border-style: hidden; 
+    box-shadow: 0 0 0 1px white; 
+}
+  
+  th {
+    
+    height: 50px;
+    
+  }
+  td {
+    height: 50px;
+    /* border-collapse: collapse; */
+    text-align: center;
+  } 
+
+  th, td {
+    border-left: 1px solid #ddd;
+  }
